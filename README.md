@@ -3,14 +3,14 @@
 ## CASIA-Iris-Lamp
 ### original
 http://biometrics.idealtest.org/dbDetailForUser.do?id=4#/datasetDetail/4
-### with 
+### with glasses specular reflection
 
 ## CASIA-Iris-Distance
 ### original
-
-### with 
+http://biometrics.idealtest.org/dbDetailForUser.do?id=4#/datasetDetail/4
+### with glasses specular reflection
 
 ## UPOL
 ### original
 
-### with 
+### with glasses specular reflection
